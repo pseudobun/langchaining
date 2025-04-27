@@ -1,0 +1,13 @@
+[project]
+name = "langchaining"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "langchain-openai>=0.3.14",
+    "langchain-community>=0.3.22",
+    "langgraph>=0.3.34",
+    "web3>=7.10.0",
+]
